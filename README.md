@@ -27,7 +27,7 @@
 
 ## ⚙️ Instalação
 
-### 🪟 Windows (via Anaconda)
+### 👾 Windows (via Anaconda)
 
 1. Abra o **Anaconda Prompt**
 2. Crie e ative um ambiente para o Giwa:
