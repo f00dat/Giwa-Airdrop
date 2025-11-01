@@ -1,0 +1,18 @@
+{
+    "owlto": {
+      "mode": "replay",
+      "originalTxHash": "0x7966b8b729204fda89bdfcb8f3c4f710a98316f5115c926f44a84691677a0222"
+    },
+    "onchaingm": {
+      "mode": "factory",
+      "factory": {
+        "address": "0xa3d9Fbd0edB10327ECB73D2C72622E505dF468a2",
+        "abiPath": "./abi/OnchainGMFactory.json",
+        "method": "deploy",
+        "args": []
+      },
+      "value": "0",
+      "gasLimit": 500000
+    }
+  }
+  
