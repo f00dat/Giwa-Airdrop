@@ -82,35 +82,37 @@
 
 🧾 Logs e Saídas
 
-Todos os logs são gravados em:
-    ```bash
+  Todos os logs são gravados em:
+    
     out/activity.log
-    ```
+    
   
-Cada execução cria arquivos JSON em `out/` com informações detalhadas:
+  Cada execução cria arquivos JSON em `out/` com informações detalhadas:
 
-* bridge-*.json (**Bridge no site do Airdrop**)
+  * bridge-*.json (**Bridge no site do Airdrop**)
 
-* gm-*.json (**GM no OnChainGM**)
+  * gm-*.json (**GM no OnChainGM**)
 
-* onchaingm-*.json (**Deploy de contrato inteligente no OnChainGM**)
+  * onchaingm-*.json (**Deploy de contrato inteligente no OnChainGM**)
 
-* owlto-*.json (**Deploy de contrato inteligente na Owlto Finance**)
+  * owlto-*.json (**Deploy de contrato inteligente na Owlto Finance**)
 
-* Esses arquivos contêm histórico, erros, valores e TXs enviadas.
+  * Esses arquivos contêm histórico, erros, valores e TXs enviadas.
 
 
 ## 🧹 Parar o Daemon
 
 Para encerrar a execução do Giwa com segurança:
-    ```bash
+    
     CTRL + C
-    ```
+   
 
-O console exibirá:
-    ```bash
-    (SIGINT recebido, finalizando...)
-    ```
+O console exibirá: 
+
+
+**(SIGINT recebido, finalizando...)**
+    
+
 
 ## 🧑‍💻 Autor
 
