@@ -89,13 +89,13 @@ Todos os logs são gravados em:
   
 Cada execução cria arquivos JSON em `out/` com informações detalhadas:
 
-* bridge-*.json (Bridge no site do Airdrop)
+* bridge-*.json (**Bridge no site do Airdrop**)
 
-* gm-*.json (GM no OnChainGM)
+* gm-*.json (**GM no OnChainGM**)
 
-* onchaingm-*.json (Deploy de contrato inteligente no OnChainGM)
+* onchaingm-*.json (**Deploy de contrato inteligente no OnChainGM**)
 
-* owlto-*.json (Deploy de contrato inteligente na Owlto Finance)
+* owlto-*.json (**Deploy de contrato inteligente na Owlto Finance**)
 
 * Esses arquivos contêm histórico, erros, valores e TXs enviadas.
 
@@ -114,7 +114,7 @@ O console exibirá:
 
 ## 🧑‍💻 Autor
 
-Desmistificador de Crypto
+**Desmistificador de Crypto**
 
 <a href="https://www.youtube.com/@desmistificadordecrypto" target="_blank">📺 YouTube</a><br>
 <a href="https://x.com/desm_de_crypto" target="_blank">🐦 Twitter</a><br>
