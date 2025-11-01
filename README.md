@@ -118,7 +118,13 @@ O console exibirá:
 
 **Desmistificador de Crypto**
 
+<img width="534" height="199" alt="image" src="https://github.com/user-attachments/assets/df798f69-f137-44e3-ba13-0a3f71cbfa65" />
+
+
 <a href="https://www.youtube.com/@desmistificadordecrypto" target="_blank">📺 YouTube</a><br>
 <a href="https://x.com/desm_de_crypto" target="_blank">🐦 Twitter</a><br>
 <a href="https://t.me/Desmistificador_de_crypto" target="_blank">💬 Canal Telegram</a><br>
 <a href="https://t.me/+EK-001T9G6E1ZTQ5" target="_blank">👥 Grupo Telegram</a><br>
+
+<img width="1077" height="236" alt="image" src="https://github.com/user-attachments/assets/68b78dff-f2de-4725-ad12-a22d6fb5baa9" />
+
