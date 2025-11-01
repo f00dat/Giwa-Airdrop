@@ -114,7 +114,7 @@ O console exibirá:
     
 
 
-## 🧑‍💻 Autor
+## Autor
 
 **Desmistificador de Crypto**
 
