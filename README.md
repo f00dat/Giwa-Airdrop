@@ -38,7 +38,7 @@
    
 3. Clone o repositório e acesse a pasta:
     ```bash
-    git clone https://github.com/f00dat/Giwa-Airdrop
+    git clone https://github.com/f00dat/Giwa-Airdrop.git
     cd Giwa-Airdrop
     ```
 
@@ -66,7 +66,7 @@
 
 2. Clone o repositório:
     ```bash
-    git clone https://github.com/f00dat/Giwa-Airdrop
+    git clone https://github.com/f00dat/Giwa-Airdrop.git
     cd Giwa-Airdrop
     ```
 
