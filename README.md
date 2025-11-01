@@ -10,7 +10,7 @@
 - [Instalação](#-instalação)
   - [Windows (via Anaconda)](#-windows-via-anaconda)
   - [Linux (via-terminal)](#-linux-via-terminal)
-- [Logs e Saídas](#-logs-e-saídas)
+- [Logs e Saídas](#-logs-e-saidas)
 - [Parar o Daemon](#-parar-o-daemon)
 - [Autor](#-autor)
 
@@ -80,7 +80,7 @@
     node giwa.js
     ```
 
-🧾 Logs e Saídas
+## 🧾 Logs e Saidas
 
   Todos os logs são gravados em:
     
