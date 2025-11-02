@@ -112,7 +112,7 @@ O console exibirá:
 
 **(SIGINT recebido, finalizando...)**
     
-
+---
 
 ## Autor
 
